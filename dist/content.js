@@ -11,7 +11,7 @@ function handleAds() {
 
   const adShowing = player.classList.contains("ad-showing");
 
-  // 🎯 Ad detected
+  //  Ad detected
   if (adShowing) {
     // Ensure video is READY before skipping
     const isReady = video.readyState >= 2 && isFinite(video.duration);
@@ -27,27 +27,27 @@ function handleAds() {
     }
   }
 
-  // 🎯 Ad finished
+  //  Ad finished
   if (!adShowing && isAdPlaying) {
     isAdPlaying = false;
   }
 
-  // 🔹 SAFE cleanup (do NOT remove core player elements)
+  //  SAFE cleanup (do NOT remove core player elements)
   document.querySelectorAll(
     ".ytp-ad-overlay-container, #player-ads"
   ).forEach(el => el.remove());
 
-   // 🔹 Remove video overlay ads
+   //  Remove video overlay ads
   document.querySelectorAll(
     ".ytp-ad-overlay-container, #player-ads, .ytp-ad-overlay-container ,.ytp-ad-overlay-slot ,.ytp-ad-text-overlay ,.ytp-ad-image-overlay"
   ).forEach(el => el.remove());
 
-  // 🔹 Remove homepage / feed ads
+  //  Remove homepage / feed ads
   document.querySelectorAll(
     "ytd-promoted-video-renderer, ytd-display-ad-renderer, ytd-ad-slot-renderer"
   ).forEach(el => el.remove());
 
-  // 🔹 Remove sponsored shelves (optional but powerful)
+  //  Remove sponsored shelves (optional but powerful)
   document.querySelectorAll(
     "ytd-rich-section-renderer"
   ).forEach(el => {
