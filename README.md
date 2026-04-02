@@ -71,7 +71,7 @@ The extension will now be installed and ready to use 🚀
 (Add your LinkedIn post link here)
 
 🎬 **Demo Video:**  
-https://drive.google.com/file/d/1hLsYwRU5YleOVvC-VhpktqgVJDW6Nn4c/view?usp=sharing
+https://drive.google.com/file/d/1ooScfpngZGxlZ7GnVIhR9kucYJI8mGgn/view?usp=sharing
 
 Check the LinkedIn post or the demo video above for a quick walkthrough and setup guide of the extension.
 
