@@ -68,7 +68,7 @@ The extension will now be installed and ready to use 🚀
 ## 🎥 Demo
 
 📌 **LinkedIn Post:**  
-(Add your LinkedIn post link here)
+https://www.linkedin.com/feed/update/urn:li:activity:7445520950382559233/
 
 🎬 **Demo Video:**  
 https://drive.google.com/file/d/1ooScfpngZGxlZ7GnVIhR9kucYJI8mGgn/view?usp=sharing
