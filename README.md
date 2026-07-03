@@ -9,7 +9,7 @@ TubeShield is a Chrome Extension designed to make YouTube cleaner, faster, and m
 - ❌ **Hide Shorts**  
   Completely removes Shorts from the interface to eliminate endless scrolling.
 
-- 🚫 **Block Shorts Access**  
+- 🚫 **Handle Shorts Access**  
   Prevents navigation to Shorts, helping you stay focused on meaningful content.
 
 - ⚡ **Smart Promo Handling**  
